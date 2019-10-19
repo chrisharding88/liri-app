@@ -1,15 +1,26 @@
-
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Just Friends
-                              
- Song Title: I Wanna Love You
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/2evfbWqjsCIaqJpCYO5uta
-                              
- Album: Nothing but Love
-                              
- =======END SPOTIFY LOG==========
+ 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Skrillex
+                        
+ Name of Venue: The Depot 
+                       
+ Venue Location: Manchester  
+                       
+ Date of Event: 10-26-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Diplo
+                        
+ Name of Venue: XS Nightclub 
+                       
+ Venue Location: Las Vegas  
+                       
+ Date of Event: 10-18-2019
+                       
+===============END CONCERT LOG=========================
 ============BEGIN MOVIE LOG ENTRY==============
                   
  Movie Title: The Matrix
@@ -25,88 +36,9 @@
  Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
                   
  Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
-   
-                
-============BEGIN MOVIE LOG ENTRY==============
-                  
- Movie Title: Ladybugs
-                  
- Year Released: 1992
-                  
- Rotten Tomatoes Rating: undefined
-                  
- Country Produced: USA
-                  
- Lanuguage: English
-                  
- Plot: To climb the corporate ladder to success, a guy agrees to coach the company's all girl soccer team with the help of his secret weapon: his fiancee's son.
-                  
- Actors: Rodney Dangerfield, Jackée Harry, Jonathan Brandis, Ilene Graff
                   
  ============END MOVIE LOG ENTRY==============
                 
-============BEGIN MOVIE LOG ENTRY==============
-                  
- Movie Title: The Little Mermaid
-                  
- Year Released: 1989
-                  
- Rotten Tomatoes Rating: undefined
-                  
- Country Produced: USA
-                  
- Lanuguage: English, French
-                  
- Plot: A mermaid princess makes a Faustian bargain in an attempt to become human and win a prince's love.
-                  
- Actors: Rene Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll
-                  
- ============END MOVIE LOG ENTRY==============
-                spotify-this-song, "Breathin"
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Harry Styles
-                              
- Song Title: Sign of the Times
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
-                              
- Album: Harry Styles
-                              
- =======END SPOTIFY LOG==========spotify-this-song, "I Want It That Way"
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Harry Styles
-                              
- Song Title: Sign of the Times
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
-                              
- Album: Harry Styles
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Gunna
-                              
- Song Title: Speed It Up
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/3BXXkwyhsHM0EPApHMhQC5
-                              
- Album: Speed It Up
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Gunna
-                              
- Song Title: 3 Headed Snake (feat. Young Thug)
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/2OaKHGvIxoOzIYjyMsxcT8
-                              
- Album: Drip or Drown 2
-                              
- =======END SPOTIFY LOG==========
 ============BEGIN MOVIE LOG ENTRY==============
                   
  Movie Title: Toy Story 2
@@ -127,40 +59,286 @@
                 
 ============BEGIN MOVIE LOG ENTRY==============
                   
- Movie Title: Toy Story 3
+ Movie Title: Toy Story 4
                   
- Year Released: 2010
-                  
- Rotten Tomatoes Rating: undefined
-                  
- Country Produced: USA
-                  
- Lanuguage: English, Spanish
-                  
- Plot: The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.
-                  
- Actors: Tom Hanks, Tim Allen, Joan Cusack, Ned Beatty
-                  
- ============END MOVIE LOG ENTRY==============
-                
-============BEGIN MOVIE LOG ENTRY==============
-                  
- Movie Title: Blade
-                  
- Year Released: 1998
+ Year Released: 2019
                   
  Rotten Tomatoes Rating: undefined
                   
  Country Produced: USA
                   
- Lanuguage: English, Russian, Serbian
+ Lanuguage: English
                   
- Plot: A half-vampire, half-mortal man becomes a protector of the mortal race, while slaying evil vampires.
+ Plot: When a new toy called "Forky" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.
                   
- Actors: Wesley Snipes, Stephen Dorff, Kris Kristofferson, N'Bushe Wright
+ Actors: Tom Hanks, Tim Allen, Annie Potts, Tony Hale
                   
  ============END MOVIE LOG ENTRY==============
                 
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: DaBaby
+                              
+ Song Title: VIBEZ
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/0fySG6A6qLE8IvDpayb5bM
+                              
+ Album: KIRK
+                              
+ =======END SPOTIFY LOG==========
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Quality Control
+                              
+ Song Title: Baby
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/2nKYHpmwjLaEOXS3o7QMiz
+                              
+ Album: Baby
+                              
+ =======END SPOTIFY LOG==========
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Saweetie
+                              
+ Song Title: My Type
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/5KBARWIxeMGkvUax9VtVC9
+                              
+ Album: ICY
+                              
+ =======END SPOTIFY LOG==========
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Pop Smoke
+                              
+ Song Title: Welcome To The Party
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/0fIffclhgJC5h8AdMMVvkp
+                              
+ Album: Meet The Woo
+                              
+ =======END SPOTIFY LOG==========
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Migos
+                              
+ Song Title: T-Shirt
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/7KOlJ92bu51cltsD9KU5I7
+                              
+ Album: Culture
+                              
+ =======END SPOTIFY LOG========== 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Megan Thee Stallion
+                        
+ Name of Venue: Vanderbilt Univ Memorial Gymnasium 
+                       
+ Venue Location: Nashville  
+                       
+ Date of Event: 10-18-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Migos
+                        
+ Name of Venue: Art Park - West Kowloon Cultural District 
+                       
+ Venue Location: Kowloon Tong  
+                       
+ Date of Event: 10-19-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Ariana Grande
+                        
+ Name of Venue: Nassau Veterans Memorial Coliseum 
+                       
+ Venue Location: Uniondale  
+                       
+ Date of Event: 11-09-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Normani
+                        
+ Name of Venue: Amalie Arena 
+                       
+ Venue Location: Tampa  
+                       
+ Date of Event: 11-24-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Shawn Mendes
+                        
+ Name of Venue: Perth Arena  
+                       
+ Venue Location: Perth  
+                       
+ Date of Event: 10-23-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Blackbear
+                        
+ Name of Venue: Razzmatazz 
+                       
+ Venue Location: Barcelona  
+                       
+ Date of Event: 10-20-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: BTS
+                        
+ Name of Venue: ＺＯＺＯマリンスタジアム 
+                       
+ Venue Location: 千葉市  
+                       
+ Date of Event: 11-24-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: RL Grime
+                        
+ Name of Venue: The Mission Ballroom 
+                       
+ Venue Location: Denver  
+                       
+ Date of Event: 10-19-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Ookay
+                        
+ Name of Venue: Webster Hall 
+                       
+ Venue Location: New York  
+                       
+ Date of Event: 10-19-2019
+                       
+===============END CONCERT LOG========================= 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Yo Gotti
+                        
+ Name of Venue: Mississippi Coast Coliseum 
+                       
+ Venue Location: Biloxi  
+                       
+ Date of Event: 11-29-2019
+                       
+===============END CONCERT LOG=========================spotify-this-song,"I Want It That Way"
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Harry Styles
+                              
+ Song Title: Sign of the Times
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+                              
+ Album: Harry Styles
+                              
+ =======END SPOTIFY LOG==========spotify-this-song,I Want It That Way
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Harry Styles
+                              
+ Song Title: Sign of the Times
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+                              
+ Album: Harry Styles
+                              
+ =======END SPOTIFY LOG==========spotify-this-song, Thriller
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Harry Styles
+                              
+ Song Title: Sign of the Times
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+                              
+ Album: Harry Styles
+                              
+ =======END SPOTIFY LOG==========spotify-this-song, Thriller
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Michael Jackson
+                              
+ Song Title: Billie Jean
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+                              
+ Album: Thriller 25 Super Deluxe Edition
+                              
+ =======END SPOTIFY LOG==========
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: TOTO
+                              
+ Song Title: Africa
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/2374M0fQpWi3dLnB54qaLX
+                              
+ Album: Toto IV
+                              
+ =======END SPOTIFY LOG==========
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Two Door Cinema Club
+                              
+ Song Title: What You Know
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/3UjtIALeg72qmJiKPWBvM3
+                              
+ Album: Tourist History
+                              
+ =======END SPOTIFY LOG========== 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Skrillex
+                        
+ Name of Venue: The Depot 
+                       
+ Venue Location: Manchester  
+                       
+ Date of Event: 10-26-2019
+                       
+===============END CONCERT LOG=========================
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Lil Nas X
+                              
+ Song Title: Old Town Road - Remix
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/2YpeDb67231RjR0MgVLzsG
+                              
+ Album: 7 EP
+                              
+ =======END SPOTIFY LOG========== 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Skrillex
+                        
+ Name of Venue: The Depot 
+                       
+ Venue Location: Manchester  
+                       
+ Date of Event: 10-26-2019
+                       
+===============END CONCERT LOG=========================
 ============BEGIN MOVIE LOG ENTRY==============
                   
  Movie Title: Pineapple Express
@@ -178,337 +356,15 @@
  Actors: Seth Rogen, James Franco, Danny McBride, Kevin Corrigan
                   
  ============END MOVIE LOG ENTRY==============
-                
+                spotify-this-song, Thriller
  =======BEGIN SPOTIFY LOG ENTRY=========
                               
- Artist: Ed Sheeran
+ Artist: Michael Jackson
                               
- Song Title: Thinking out Loud
+ Song Title: Billie Jean
                               
- Song Preview Link: https://api.spotify.com/v1/tracks/34gCuhDGsG4bRPIf9bb02f
+ Song Preview Link: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
                               
- Album: x (Deluxe Edition)
+ Album: Thriller 25 Super Deluxe Edition
                               
  =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Skillet
-                              
- Song Title: Monster
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/2UREu1Y8CO4jXkbvqAtP7g
-                              
- Album: Awake
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Kacey Musgraves
-                              
- Song Title: Butterflies
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/30VHURM5NOfoZmqp2iKawS
-                              
- Album: Golden Hour
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Gabbie Hanna
-                              
- Song Title: Pillowcase
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/6fSFLIgti1xISBDF50zZEY
-                              
- Album: 2WAYMIRROR
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Travis Scott
-                              
- Song Title: BUTTERFLY EFFECT
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/2cYqizR4lgvp4Qu6IQ3qGN
-                              
- Album: ASTROWORLD
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: YoungBoy Never Broke Again
-                              
- Song Title: Slime Belief
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/2qGfZAgDe1pV2y5xJAhi6R
-                              
- Album: Realer
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Megan Thee Stallion
-                              
- Song Title: Simon Says (feat. Juicy J)
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/4l2maonUDTMvGGT4bmkB3h
-                              
- Album: Fever
-                              
- =======END SPOTIFY LOG========== 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Venue: The O2 
-                       
- Venue Location: London  
-                       
- Date of Event: 10-15-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Venue: The Pavilion at Toyota Music Factory 
-                       
- Venue Location: Irving  
-                       
- Date of Event: 10-18-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Venue: The Pavilion at Toyota Music Factory 
-                       
- Venue Location: Irving  
-                       
- Date of Event: 10-18-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Venue: Intersect 
-                       
- Venue Location: Las Vegas  
-                       
- Date of Event: 12-07-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Diplo
-                        
- Name of Venue: XS Nightclub 
-                       
- Venue Location: Las Vegas  
-                       
- Date of Event: 10-18-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Dillon Francis
-                        
- Name of Venue: Encore Beach Club 
-                       
- Venue Location: Las Vegas  
-                       
- Date of Event: 10-19-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Adventure Club
-                        
- Name of Venue: Nashville Municipal Auditorium 
-                       
- Venue Location: Nashville  
-                       
- Date of Event: 10-17-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Billie Eilish
-                        
- Name of Venue: Corona Capital 
-                       
- Venue Location: Mexico City  
-                       
- Date of Event: 11-17-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: DaBaby
-                        
- Name of Venue: Myth Live 
-                       
- Venue Location: Minneapolis  
-                       
- Date of Event: 11-16-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: French Montana
-                        
- Name of Venue: Drai's Beachclub & Nightclub 
-                       
- Venue Location: Las Vegas  
-                       
- Date of Event: 10-19-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Getter
-                        
- Name of Venue: Clé 
-                       
- Venue Location: Houston  
-                       
- Date of Event: 10-25-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Juice WRLD
-                        
- Name of Venue: Nelson W. Wolff Municipal Stadium 
-                       
- Venue Location: San Antonio  
-                       
- Date of Event: 10-26-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Freeway
-                        
- Name of Venue: Nick's Birthday Celebration 
-                       
- Venue Location: Jacksonville  
-                       
- Date of Event: 11-02-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Slipknot
-                        
- Name of Venue: National University of San Marcos 
-                       
- Venue Location: Lima District  
-                       
- Date of Event: 11-23-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Chris Brown
-                        
- Name of Venue: INDIGOAT TOUR 
-                       
- Venue Location: Oakland  
-                       
- Date of Event: 10-15-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Normani
-                        
- Name of Venue: Amalie Arena 
-                       
- Venue Location: Tampa  
-                       
- Date of Event: 11-24-2019
-                       
-===============END CONCERT LOG=========================spotify-this-song  "I Want It That Way"spotify-this-song  "I Want It That Way"spotify-this-song,  "I Want It That Way"
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Harry Styles
-                              
- Song Title: Sign of the Times
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
-                              
- Album: Harry Styles
-                              
- =======END SPOTIFY LOG==========spotify-this-song,  "Circles"
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Harry Styles
-                              
- Song Title: Sign of the Times
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
-                              
- Album: Harry Styles
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Lil Tecca
-                              
- Song Title: Ransom
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/1lOe9qE0vR9zwWQAOk6CoO
-                              
- Album: We Love You Tecca
-                              
- =======END SPOTIFY LOG==========
- =======BEGIN SPOTIFY LOG ENTRY=========
-                              
- Artist: Juice WRLD
-                              
- Song Title: Lucid Dreams
-                              
- Song Preview Link: https://api.spotify.com/v1/tracks/285pBltuF7vW8TeWk8hdRR
-                              
- Album: Goodbye & Good Riddance
-                              
- =======END SPOTIFY LOG========== 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Lil Tecca
-                        
- Name of Venue: Barclays Center 
-                       
- Venue Location: Brooklyn  
-                       
- Date of Event: 10-21-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Redman
-                        
- Name of Venue: Flagey 
-                       
- Venue Location: Ixelles  
-                       
- Date of Event: 01-10-2020
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Flux Pavilion
-                        
- Name of Venue: Printworks 
-                       
- Venue Location: London  
-                       
- Date of Event: 10-19-2019
-                       
-===============END CONCERT LOG========================= 
- ==============BEGIN CONCERT LOG =================
-                        
- Name of Artist: Skrillex
-                        
- Name of Venue: The Depot 
-                       
- Venue Location: Manchester  
-                       
- Date of Event: 10-26-2019
-                       
-===============END CONCERT LOG=========================

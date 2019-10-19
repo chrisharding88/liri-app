@@ -23,7 +23,8 @@ var inputUser = process.argv[2];
 var querySearch = process.argv.splice(3).join(" ");
 
 
-// This allows the user to execute any command that is inputed in node.js
+// This allows the user to execute any command that is inputed in node.js such as 'concert-this', 'spotify-this-song'
+// 'movie-this', & 'do-what-it-says'
 function liriCommand(inputUser, querySearch){
   switch (inputUser){
     case "concert-this":
@@ -95,7 +96,6 @@ function concertThis(musicArtist){
 
 // Function that searches the Spotify API whenever the user inputed 'spotify-this-song'
 function spotifySong(songSearch){
-  var songSearch = querySearch;
   
   // If LIRI cant find the song, then it will display "The Sign"
   if (!songSearch){
@@ -231,5 +231,5 @@ function doWhatItSays(){
  
 
 
-
+// Callback the liriCommand function
 liriCommand(inputUser, querySearch);
