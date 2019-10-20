@@ -2,7 +2,7 @@
 
 # DEMO:
 
-<img src = "assets/image/liri-demo.gif" width="600" height="450">
+<video src ="assets/video/liri-app-video-demo.mp4" width="500" height="350" controls preload></video>
 <img src = "assets/image/liri-log-demo.png" width="500" height="350">
 
 **************************************************************************

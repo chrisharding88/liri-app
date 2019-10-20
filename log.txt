@@ -367,4 +367,26 @@
                               
  Album: Thriller 25 Super Deluxe Edition
                               
+ =======END SPOTIFY LOG==========spotify-this-song, "I Want It That Way"
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Backstreet Boys
+                              
+ Song Title: I Want It That Way
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+                              
+ Album: The Hits--Chapter One
+                              
+ =======END SPOTIFY LOG==========spotify-this-song, "Thriller"
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Michael Jackson
+                              
+ Song Title: Billie Jean
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+                              
+ Album: Thriller 25 Super Deluxe Edition
+                              
  =======END SPOTIFY LOG==========
