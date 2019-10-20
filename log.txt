@@ -390,3 +390,54 @@
  Album: Thriller 25 Super Deluxe Edition
                               
  =======END SPOTIFY LOG==========
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Lil Nas X
+                              
+ Song Title: Old Town Road - Remix
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/2YpeDb67231RjR0MgVLzsG
+                              
+ Album: 7 EP
+                              
+ =======END SPOTIFY LOG========== 
+ ==============BEGIN CONCERT LOG =================
+                        
+ Name of Artist: Skrillex
+                        
+ Name of Venue: The Depot 
+                       
+ Venue Location: Manchester  
+                       
+ Date of Event: 10-26-2019
+                       
+===============END CONCERT LOG=========================
+============BEGIN MOVIE LOG ENTRY==============
+                  
+ Movie Title: Pineapple Express
+                  
+ Year Released: 2008
+                  
+ Rotten Tomatoes Rating: undefined
+                  
+ Country Produced: USA
+                  
+ Lanuguage: English, Cantonese, Korean
+                  
+ Plot: A process server and his marijuana dealer wind up on the run from hitmen and a corrupt police officer after he witnesses his dealer's boss murder a competitor while trying to serve papers on him.
+                  
+ Actors: Seth Rogen, James Franco, Danny McBride, Kevin Corrigan
+                  
+ ============END MOVIE LOG ENTRY==============
+                spotify-this-song, "Thriller"
+ =======BEGIN SPOTIFY LOG ENTRY=========
+                              
+ Artist: Michael Jackson
+                              
+ Song Title: Billie Jean
+                              
+ Song Preview Link: https://api.spotify.com/v1/tracks/5ChkMS8OtdzJeqyybCc9R5
+                              
+ Album: Thriller 25 Super Deluxe Edition
+                              
+ =======END SPOTIFY LOG==========
