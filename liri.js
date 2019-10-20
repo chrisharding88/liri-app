@@ -8,13 +8,15 @@ var keys = require("./keys.js");
 // imports the spotify API so it can retrive the song information
 var spotify = require('node-spotify-api');
 
+//This will access the keys information from Spotify
 var spotify = new spotify(keys.spotify);
 
-// 
+//imports the axios package
 var axios = require("axios");
 
 var fs = require("fs");
 
+//imports the moment.js package
 var moment = require("moment");
 
 // This varable allows the user to enter the command 
