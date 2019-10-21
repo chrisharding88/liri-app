@@ -2,10 +2,10 @@
 
 # DEMO:
 
-Click this link to play the demo: (https://drive.google.com/file/d/1H4I_hY82UusKDWuHkO4tz2n9NPwdws2x/view)
+Click this link to play the demo: (https://drive.google.com/file/d/1YDdxEJuALgvuNLEwe1GWGBBBpclqRUhu/view)
 
 
-<img src = "assets/image/liri-log-demo-2.png" width="500" height="350">
+<img src = "assets/image/liri-demo.png" width="500" height="350">
 
 
 <img src = "assets/image/liri-log-demo.png" width="500" height="350">
