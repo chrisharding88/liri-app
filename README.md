@@ -5,10 +5,10 @@
 Click this link to play the demo: (https://drive.google.com/file/d/1YDdxEJuALgvuNLEwe1GWGBBBpclqRUhu/view)
 
 
-<img src = "assets/image/liri-demo.png" width="500" height="350">
+<img src = "assets/image/liri-demo.png" width="700" height="350">
 
 
-<img src = "assets/image/liri-log-demo.png" width="500" height="350">
+<img src = "assets/image/liri-log-demo.png" width="700" height="350">
 
 **************************************************************************
 
